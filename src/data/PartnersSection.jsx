@@ -10,7 +10,7 @@ export const partnersSection = {
                             </p>
                              <p>                                
                                 <a href="https://github.com/Hendriagustian/pt_eigen_onlyCode/blob/main/algoritma4/algoritma4.php" target="_blank" className="tbl-biru">Lihat Code</a>
-                                </p>
+                               </p>
                                 <br/> <hr/>
                                 <h3>Hasil:</h3> 
                                  <h3>Diagonal Pertama : 3 + 5 + 9 = 17 </h3>
