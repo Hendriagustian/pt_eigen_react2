@@ -8,9 +8,8 @@ export const partnersSection = {
                                 diagonal kedua = 0 + 5 + 7 = 12  <br/>
                                 maka hasilnya adalah 15 - 12 = 3 <br/>
                             </p>
-                            <p>
-                                <a href="pt_eigen_onlyCode/algoritma4/algoritma4.php" download className="tbl-pink">Download Code</a>
-                                <a href="pt_eigen_onlyCode/algoritma4/algoritma4.php" target="_blank" className="tbl-biru">Lihat Code</a>
+                             <p>                                
+                                <a href="https://github.com/Hendriagustian/pt_eigen_onlyCode/blob/main/algoritma4/algoritma4.php" target="_blank" className="tbl-biru">Lihat Code</a>
                                 </p>
                                 <br/> <hr/>
                                 <h3>Hasil:</h3> 
