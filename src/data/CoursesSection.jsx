@@ -7,11 +7,9 @@ export const coursesSection = {
                                 const sentence = "Saya sangat senang mengerjakan soal algoritma"
                                 longest(sentence) 
                                 // mengerjakan: 11 character
-                        </p>
-                      
-                        <p>
-                        <a href="pt_eigen_onlyCode/algoritma2/algoritma2.php" download className="tbl-pink">Download Code</a>
-                        <a href="pt_eigen_onlyCode/algoritma2/algoritma2.php" target="_blank" className="tbl-biru">Lihat Code</a>
+                        </p>                      
+                        <p>                       
+                        <a href="https://github.com/Hendriagustian/pt_eigen_onlyCode/blob/main/algoritma2/algoritma2.php" target="_blank" className="tbl-biru">Lihat Code</a>
                         </p>
                         <br/> <hr/>
                         <h3>Hasil: Kata terpanjang: pemograman | Jumlah karakter: 10</h3>  
