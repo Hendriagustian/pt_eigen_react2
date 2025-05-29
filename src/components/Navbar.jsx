@@ -12,7 +12,7 @@ function Navbar() {
                     <li><a href="#courses">Algoritma 2</a></li>
                     <li><a href="#tutors">Algoritma 3</a></li>
                     <li><a href="#partners">Algoritma 4</a></li>
-                    <li><a href="#contact" className="tbl-pink">Kontak</a></li>
+                    <li><a href="#contact" className="tbl-pink">Info</a></li>
                     {/* <li><a href="https://pt-eigen-react2.vercel.app/" target='_blank' className="tbl-biru">Link</a></li> */}
                 </ul>
             </div>
