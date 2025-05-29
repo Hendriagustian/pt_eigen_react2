@@ -1,7 +1,17 @@
 export const tutorsSection = {
-    content:`<p className="deskripsi">Our Top Tutors</p>
-                            <h2>Tutors</h2>
-                            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, optio!</p>`
+    content:`<p className="deskripsi">TECHNICAL TEST</p>
+                            <h2>Soal Algortima 3 :</h2>
+                            <p>Terdapat dua buah array yaitu array INPUT dan array QUERY, silahkan tentukan berapa kali kata dalam QUERY terdapat pada array INPUT :</p>
+                            <p>Contoh : 
+                                <br/> INPUT = ['xc', 'dz', 'bbb', 'dz'] 
+                                <br/> QUERY = ['bbb', 'ac', 'dz'] <br/> 
+                                OUTPUT = [1, 0, 2] karena kata 'bbb' terdapat 1 pada INPUT, kata 'ac' tidak ada pada INPUT, dan kata 'dz' terdapat 2 pada INPUT </p>
+                            <br/> 
+                            <a href="pt_eigen_onlyCode/algoritma3/algoritma3.php" download className="tbl-pink">Download Code</a>
+                             <a href="pt_eigen_onlyCode/algoritma3/algoritma3.php" target="_blank" className="tbl-biru">Lihat Code</a>
+                            <br/> <br/> <br/> <hr/> <br/> 
+                             <h3>Hasil: [3,2,0]</h3>
+                            `
 }
 
 export const tutorsList = [

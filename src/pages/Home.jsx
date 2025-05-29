@@ -41,17 +41,18 @@ function Home() {
                         </div>
 
                           <div className="tutor-list">
-                            <Tutors tutorsList={tutorsList} />
+                            {/* <Tutors tutorsList={tutorsList} /> */}
                           </div>
                       </div>
                  </section>
 
                  <section id="partners">
                       <div className="tengah">
+                          <Partners partnersList={partnersList}/>   
                           <div className="kolom">
                               {parse(partnersSection.content)}
                           </div>
-                          <Partners partnersList={partnersList}/>                          
+                                                 
                       </div>
                   </section>
             </div>           

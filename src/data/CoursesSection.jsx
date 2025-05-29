@@ -1,8 +1,20 @@
 export const coursesSection = {
-    content: `<p class="deskripsi">You Will Need This</p>
-                        <h2>Online Courses</h2>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed deserunt voluptatibus possimus blanditiis reiciendis. Qui, facilis! Delectus exercitationem dolores sapiente?</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed deserunt voluptatibus possimus blanditiis reiciendis. Qui, facilis! Delectus exercitationem dolores sapiente?</p>
-                        <p><a href="" class="tbl-biru">Pelajari Lebih Lanjut</a></p>`,
+    content: `<p class="deskripsi">TECHNICAL TEST</p>
+                        <h2>Soal Algortima 2 :</h2>
+                        <p>Diberikan contoh sebuah kalimat, silahkan cari kata terpanjang dari kalimat tersebut, jika ada kata dengan panjang yang sama silahkan ambil salah satu</p> 
+                        <p> 
+                            Contoh : <br />
+                                const sentence = "Saya sangat senang mengerjakan soal algoritma"
+                                longest(sentence) 
+                                // mengerjakan: 11 character
+                        </p>
+                      
+                        <p>
+                        <a href="pt_eigen_onlyCode/algoritma2/algoritma2.php" download className="tbl-pink">Download Code</a>
+                        <a href="pt_eigen_onlyCode/algoritma2/algoritma2.php" target="_blank" className="tbl-biru">Lihat Code</a>
+                        </p>
+                        <br/> <hr/>
+                        <h3>Hasil: Kata terpanjang: pemograman | Jumlah karakter: 10</h3>  
+                        </p>`,
     image: 'https://img.freepik.com/free-vector/online-learning-isometric-concept_1284-17947.jpg?size=626&ext=jpg&ga=GA1.2.1769275626.1605867161'
 }

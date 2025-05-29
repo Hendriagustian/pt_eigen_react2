@@ -1,6 +1,6 @@
 .logo a {
-  font-size: 50px;
-  font-weight: 800;
+  font-size: 34px;
+  font-weight: 900;
   float: left;
   font-family: courier;
   color: #364f6b;
@@ -38,7 +38,7 @@ nav ul li a {
   color: black;
   font-weight: bold;
   text-align: center;
-  padding: 0px 16px 0px 16px;
+  padding: 0px 11px 0px 11px;
   text-decoration: none;
 }
 
